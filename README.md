@@ -14,7 +14,7 @@
 
 ## Instalação
 
-Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar o `image_processing_malu`:
+Use o gerenciador de pacotes [pip]([https://pip.pypa.io/en/stable/](https://pypi.org/project/image-processing-malu/)) para instalar o `image_processing_malu`:
 
 ```bash
 pip install image_processing_malu
